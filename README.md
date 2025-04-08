@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MCP SQLite Server
 
 This project demonstrates the use of an SQLite database with the Model Context Protocol (MCP). It allows users to upload CSV files, convert them into database tables, and perform SQL queries (SELECT, CRUD operations, etc.).
@@ -89,3 +90,7 @@ If no CSV file is uploaded, the server will use the default dataset located at `
 ### License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+=======
+# mcp-sql
+It uses mcp architecture to generate dbms operations from simple text
+>>>>>>> 2f1d4e25cf07addef050c4c5e91daa04eb07d392
